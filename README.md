@@ -12,5 +12,8 @@ ala tekst
 
 ## text
 litera z wykorzystaniem opensourcowej czcionki: Dosis
-
 ![gitpad3.png](gitpad3.png)
+
+## krawędzie
+
+![gitpad4.png](gitpad4.png)
